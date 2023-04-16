@@ -1,3 +1,1 @@
-# VanillaJSTodoList
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/github-jji9mu)
+Vanilla JS is a very valuable lesson
